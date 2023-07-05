@@ -1,0 +1,73 @@
+.all {
+    background-image: url(img/background2.png);
+    background-size: cover;
+    font-family: 'Questrial';
+    color: rgb(255, 255, 255);
+
+}
+
+.Encabezado {
+    text-align: center;
+    font-size: 50px;
+}
+
+.Sub {
+    text-align: center;
+    font-size: 30px;
+}
+
+.botonEnv:hover {
+box-shadow: 0 3px 20px 0 rgba(0,0,0,0.25),0 1px 50px 0 rgba(0,0,0,0.24);
+}
+
+.botonEnv{
+    background: #A8D8F4;
+    width: 70px;
+    height: 27px;
+    border-style: hidden;
+    border-radius: 70px;
+    font-family: century Gothic;
+    font-size: 70%;
+    font-weight: 600;
+}
+
+.formularios {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 15px;
+}
+.creden{
+    text-align: center;
+    color: darkslateblue;
+    font-family: 'Questrial';
+    
+}
+
+.tablaC{
+    text-align: left;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: whitesmoke;
+}
+
+.btncre:hover {
+box-shadow: 0 3px 20px 0 rgba(0,0,0,0.25),0 1px 50px 0 rgba(0,0,0,0.24);
+}
+
+.btncre{
+    
+    background: #A8D8;
+    height: 40px;
+    width: 50px;
+    border-style: hidden;
+    border-radius: 70px;
+    font-family: century Gothic;
+    font-size: 70%;
+    font-weight: 600;
+}
